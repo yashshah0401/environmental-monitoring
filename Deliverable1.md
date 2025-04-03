@@ -38,17 +38,17 @@ Despite the availability of some public data (e.g., via national agencies), it i
 
 ### A. Environmental Impact
 
-- WHO: Air pollution contributes to 7 million premature deaths annually.
-- UNESCO: Over 2 billion people globally consume contaminated water.
-- Environmental Performance Index (Yale University, 2022): Identifies lack of data transparency and digital monitoring as key weaknesses.
+- WHO: Air pollution contributes to 7 million premature deaths annually[1].
+- UNESCO: Over 2 billion people globally consume contaminated water[2].
+- Environmental Performance Index (Yale University, 2022): Identifies lack of data transparency and digital monitoring as key weaknesses[3].
 
 ### B. Canadian Context
 
-- Environment and Climate Change Canada (ECCC): Over 65% of water stations are more than 20 years old.
-- OpenAQ and AirNow APIs: Provide useful data but require integration and interpretation.
+- Environment and Climate Change Canada (ECCC): Over 65% of water stations are more than 20 years old[4].
+- OpenAQ and AirNow APIs: Provide useful data but require integration and interpretation[5][6].
 
 ### C. Industry Benchmarking
 
-- Smart cities (Singapore, Copenhagen, Amsterdam): Use localized sensors and public dashboards.
-- Toronto pilot dashboard: Supported better policy formation.
-- IoT sensors (e.g., MQ135, TDS Meter): Affordable and easy to integrate into cloud platforms.
+- Smart cities (Singapore, Copenhagen, Amsterdam): Use localized sensors and public dashboards[7].
+- Toronto pilot dashboard: Supported better policy formation[8].
+- IoT sensors (e.g., MQ135, TDS Meter): Affordable and easy to integrate into cloud platforms[9][10].
