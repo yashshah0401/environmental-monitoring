@@ -120,3 +120,24 @@ The system will include three major modules:
 - Wireframes
 - Use Case Diagram
 - User Stories
+
+---
+
+## 9. Conclusion
+
+This deliverable lays the foundation for a robust environmental monitoring system. We’ve identified the gaps in current systems, validated the need through data and literature, and planned a solution that is scalable, user-centric, and innovative. Deliverable 2 will convert this vision into concrete system requirements and design artifacts.
+
+---
+
+## References
+
+[1] World Health Organization (WHO). (2023). *Air pollution*. Retrieved from https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health 
+[2] UNESCO. (2021). *The United Nations World Water Development Report 2021: Valuing Water*. Retrieved from https://unesdoc.unesco.org/ark:/48223/pf0000375724 
+[3] Yale Center for Environmental Law & Policy. (2022). *2022 Environmental Performance Index*. Retrieved from https://epi.yale.edu 
+[4] Environment and Climate Change Canada (ECCC). (2020). *Canadian Environmental Sustainability Indicators: Water quality in Canadian rivers*. Retrieved from https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/water-quality-canadian-rivers.html 
+[5] OpenAQ. (2023). *Open Air Quality Data Platform*. Retrieved from https://openaq.org
+[6] U.S. Environmental Protection Agency (EPA). (2023). *AirNow – Air Quality Index (AQI)*. Retrieved from https://www.airnow.gov
+[7] Smart Cities World. (2020). *How Copenhagen became a smart city*. Retrieved from https://www.smartcitiesworld.net 
+[8] City of Toronto. (2022). *Smart City TO Projects – Environmental Data Dashboards*. Retrieved from https://www.toronto.ca 
+[9] Adafruit Learning System. (2023). *MQ Sensors and Arduino Integration Guide*. Retrieved from https://learn.adafruit.com 
+[10] AWS. (2024). *AWS IoT Core – Real-time sensor data ingestion*. Retrieved from https://aws.amazon.com/iot-core
