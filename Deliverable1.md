@@ -82,3 +82,41 @@ The system will include three major modules:
 - *Tony*: Local resident who wants alerts for poor air quality.
 - *Steve*: Researcher analyzing water quality trends.
 - *Shang-Chi*: Municipal officer reviewing data trends for policy.
+
+---
+
+## 7. Project Goals (SMART)
+
+| Goal | Description |
+|------|-------------|
+| Specific | Design a real-time monitoring platform using sensor data. |
+| Measurable | Track pollution levels across 3 pilot locations. |
+| Achievable | Use affordable, off-the-shelf components. |
+| Realistic | Launch MVP with limited sensors and scalable backend. |
+| Time-bound | Complete prototype and pilot by Deliverable 3 deadline. |
+
+---
+
+## 8. Deliverable 2 Planning
+
+### A. Functional Requirements
+
+- Real-time data ingestion from sensors
+- Location tagging
+- User login and access control
+- Dashboard with maps and graphs
+- Alert notifications
+
+### B. Non-Functional Requirements
+
+- 5-second update cycle
+- 99% uptime
+- Scalable architecture
+
+### C. Artifacts
+
+- Requirements Document (SRS)
+- DFDs and ERDs
+- Wireframes
+- Use Case Diagram
+- User Stories
