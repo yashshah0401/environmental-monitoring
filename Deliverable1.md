@@ -52,3 +52,33 @@ Despite the availability of some public data (e.g., via national agencies), it i
 - Smart cities (Singapore, Copenhagen, Amsterdam): Use localized sensors and public dashboards[7].
 - Toronto pilot dashboard: Supported better policy formation[8].
 - IoT sensors (e.g., MQ135, TDS Meter): Affordable and easy to integrate into cloud platforms[9][10].
+
+---
+
+## 5. Stakeholder Analysis
+
+| Stakeholder Group | Needs | Goals | Concerns |
+|-------------------|-------|-------|----------|
+| Local Residents | Real-time air/water data | Protect health, plan outdoor activities | Data reliability, ease of use |
+| Environmental Agencies | Accurate long-term records | Ensure compliance, alert systems | Sensor calibration, maintenance |
+| Researchers & Universities | Historical and real-time datasets | Conduct analysis, publish insights | Open data access |
+| Policy Makers & Planners | Data visualizations, trend reporting | Develop environmental policies | Interpretation of complex data |
+| Tech Developers | APIs, sensor feeds | Build tools, integrate solutions | Integration standards |
+
+---
+
+## 6. System Vision and Concept
+
+### Platform Overview
+
+The system will include three major modules:
+
+1. **Sensor Layer:** Air (PM2.5, PM10, CO2, NO2, Ozone) and water sensors (pH, turbidity, TDS).
+2. **Data Collection & Cloud Storage:** Real-time data sent to cloud databases.
+3. **Web-Based Dashboard & Alert System:** Visualization, trends, maps, alerts.
+
+### User Personas
+
+- *Tony*: Local resident who wants alerts for poor air quality.
+- *Steve*: Researcher analyzing water quality trends.
+- *Shang-Chi*: Municipal officer reviewing data trends for policy.
