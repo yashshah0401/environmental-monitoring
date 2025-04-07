@@ -23,6 +23,37 @@ The functional requirements describe what the system should do. These are derive
 | FR7 | The system shall allow authorized users to export historical data in CSV and PDF formats. |
 | FR8 | The system shall maintain uptime of 99% and handle at least 100 concurrent users without performance degradation. |
 
+---
+
+## 3. System Requirements
+
+System requirements describe the technical environment and constraints necessary for the system to function.
+
+### 3.1 Hardware Requirements
+
+- Air Quality Sensors: MQ135, DHT22, and NO2/O3-specific sensors [9]
+- Water Sensors: TDS Meter, pH sensor, turbidity sensor
+- Microcontroller: Arduino/ESP32 or Raspberry Pi with GSM/Wi-Fi module
+- Server: Cloud-based hosting on AWS IoT Core or Firebase [10]
+
+### 3.2 Software Requirements
+
+- Backend: Node.js or Python Flask for API development
+- Frontend: React.js or Angular with Chart.js for visualization
+- Database: Firebase Realtime DB / InfluxDB for time-series data
+- Mobile App (Optional): Flutter or React Native
+- Notification Service: Twilio (SMS) and SendGrid (email)
+
+### 3.3 Non-Functional Requirements
+
+| ID | Description |
+|----|-------------|
+| NFR1 | The system shall refresh sensor readings every 5 seconds. |
+| NFR2 | The system shall ensure 99% uptime during operational hours. |
+| NFR3 | The web dashboard shall load within 3 seconds for 90% of users. |
+| NFR4 | The system shall support localization (English/French). |
+| NFR5 | The system shall encrypt data in transit and at rest using HTTPS and AES-256. |
 
 ---
+
 
