@@ -56,4 +56,25 @@ System requirements describe the technical environment and constraints necessary
 
 ---
 
+## 4. Assumptions & Validation
+
+### 4.1 Assumptions
+
+- All deployed sensors will be calibrated and regularly maintained by field technicians.
+- Reliable internet connectivity or GSM signal will be available at all sensor locations.
+- Stakeholders (e.g., municipalities, agencies) will provide access to public locations for sensor deployment.
+- Users will have access to modern browsers or smartphones for accessing the dashboard.
+- APIs such as OpenAQ or government datasets will remain accessible for integration [5][6].
+
+### 4.2 Validation Strategy
+
+| Validation Method | Description |
+|-------------------|-------------|
+| Unit Testing | Each sensor integration module and API endpoint will be tested independently. |
+| User Acceptance Testing (UAT) | Stakeholder representatives will test the dashboard and alert features for usability. |
+| Field Testing | Sensors will be deployed at 3 pilot sites to validate real-time data ingestion and transmission. |
+| Load Testing | Simulate concurrent users to evaluate system performance under expected traffic. |
+| Security Testing | Penetration tests will be conducted to validate access control, encryption, and data safety. |
+
+---
 
