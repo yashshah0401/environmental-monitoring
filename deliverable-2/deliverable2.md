@@ -8,3 +8,7 @@ This deliverable translates the findings and goals from Deliverable 1 into clear
 
 ---
 
+## 2. Functional Requirements
+
+The functional requirements describe what the system should do. These are derived directly from stakeholder needs and the high-level features outlined in Deliverable 1.
+
