@@ -54,3 +54,48 @@ This document outlines the final stage of project preparation, breaking down sys
 - **Estimated Effort:** 1 day
 
 ---
+
+### Task 6: Develop Role-Based Access Control (RBAC)
+
+- **Description:** Implement authentication and different access levels for public, researchers, and admins.
+- **User Story:** *As an admin, I want to manage user access and permissions so that the system remains secure.*
+- **Assigned To:** Backend Developer
+- **Estimated Effort:** 1 day
+
+---
+
+### Task 7: Export Data Functionality
+
+- **Description:** Allow users to download pollution reports in CSV and PDF formats.
+- **User Story:** *As a researcher, I want to download pollution data so I can use it in my reports and analysis.*
+- **Assigned To:** Full Stack Developer
+- **Estimated Effort:** 1 day
+
+---
+
+### Task 8: Performance Optimization
+
+- **Description:** Conduct load testing and caching implementation to maintain system responsiveness under traffic.
+- **User Story:** *As a system owner, I want the dashboard to work smoothly even with many users online.*
+- **Assigned To:** DevOps Engineer
+- **Estimated Effort:** 1 day
+
+---
+
+### Task 9: Security Setup
+
+- **Description:** Apply HTTPS, access tokens, and data encryption using AES-256.
+- **User Story:** *As a developer, I want all data to be encrypted in transit and storage so that user information remains private.*
+- **Assigned To:** Security Engineer
+- **Estimated Effort:** 1 day
+
+---
+
+### Task 10: Field Testing and Validation
+
+- **Description:** Deploy sensors at 3 real-world sites and validate data transmission and UI output.
+- **User Story:** *As a QA engineer, I want to test the full system in the field so I can ensure all modules work in real conditions.*
+- **Assigned To:** QA + IoT Developer
+- **Estimated Effort:** 2 days
+
+---
