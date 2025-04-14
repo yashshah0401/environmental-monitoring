@@ -97,32 +97,6 @@ The system will include three major modules:
 
 ---
 
-## 8. Deliverable 2 Planning
-
-### A. Functional Requirements
-
-- Real-time data ingestion from sensors
-- Location tagging
-- User login and access control
-- Dashboard with maps and graphs
-- Alert notifications
-
-### B. Non-Functional Requirements
-
-- 5-second update cycle
-- 99% uptime
-- Scalable architecture
-
-### C. Artifacts
-
-- Requirements Document (SRS)
-- DFDs and ERDs
-- Wireframes
-- Use Case Diagram
-- User Stories
-
----
-
 ## 9. Conclusion
 
 This deliverable lays the foundation for a robust environmental monitoring system. We’ve identified the gaps in current systems, validated the need through data and literature, and planned a solution that is scalable, user-centric, and innovative. Deliverable 2 will convert this vision into concrete system requirements and design artifacts.
