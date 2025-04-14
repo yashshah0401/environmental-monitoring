@@ -99,3 +99,35 @@ This document outlines the final stage of project preparation, breaking down sys
 - **Estimated Effort:** 2 days
 
 ---
+
+## 3. Sprint Planning (Agile Approach)
+
+| Sprint | Focus Area | Key Tasks |
+|--------|-------------|-----------|
+| Sprint 1 | Sensor Configuration & Cloud Setup | Tasks 1, 2, 3 |
+| Sprint 2 | Backend Features | Tasks 5, 6 |
+| Sprint 3 | Dashboard & Export | Tasks 4, 7 |
+| Sprint 4 | Testing & Optimization | Tasks 8, 9, 10 |
+
+---
+
+## 4. Assumptions
+
+- All sensors and hardware are available before Sprint 1 begins.
+- Firebase or AWS access is pre-provisioned.
+- GitHub repository and roles are set up for all contributors.
+- Internet/GSM connectivity is stable in deployment locations.
+
+---
+
+## 5. Validation Checklist
+
+| Validation Area | Method |
+|------------------|--------|
+| Data Accuracy | Manual sensor testing + automated threshold checks |
+| UI Responsiveness | Load testing + browser/device testing |
+| Security | Token/SSL validation + simulated attacks |
+| Export Quality | File formatting and data completeness review |
+| Field Performance | UAT at 3 physical deployment sites |
+
+---
