@@ -131,3 +131,65 @@ This document outlines the final stage of project preparation, breaking down sys
 | Field Performance | UAT at 3 physical deployment sites |
 
 ---
+
+## 6. Risk Management & Mitigation Plan
+
+| Potential Risk                                   | Mitigation Strategy                                                        |
+|--------------------------------------------------|-----------------------------------------------------------------------------|
+| Hardware/Sensor Failure                          | Regular maintenance, fallback hardware availability                         |
+| Connectivity Issues (Internet/GSM)               | Buffering data locally, using multiple network options                      |
+| Sensor Inaccuracy                                | Calibration and real-time error detection algorithms                        |
+| Power Supply Fluctuations                        | Use of battery backup/solar power modules                                   |
+| Unauthorized Data Access                         | Role-based access control, encrypted transmission, regular audits           |
+| Environmental Conditions Affecting Hardware      | Weather-resistant casing, proper sensor placement                           |
+| Cloud Platform Downtime                          | Use of reputable cloud service providers with redundancy                    |
+| Alert Fatigue                                    | Customizable user thresholds, bundled notifications                         |
+
+---
+
+## 7. Sprint Timeline – Gantt Chart
+
+| Sprint       | Timeline        | Key Tasks                                                 |
+|--------------|------------------|------------------------------------------------------------|
+| Sprint 1     | Apr 1 – Apr 7    | Sensor setup, hardware configuration, testing             |
+| Sprint 2     | Apr 8 – Apr 14   | Backend APIs, cloud database, alert logic                 |
+| Sprint 3     | Apr 15 – Apr 21  | Frontend development, dashboard UI                        |
+| Sprint 4     | Apr 22 – Apr 28  | Integration testing, deployment, documentation            |
+
+---
+
+## 8. Stakeholder Expectations
+
+| Stakeholder          | Expectations                                                         |
+|----------------------|----------------------------------------------------------------------|
+| Local Residents      | Real-time pollution info, alerts, user-friendly dashboard             |
+| Schools & Students   | Educational integration, simplified data visualization                |
+| Environmental Groups | Data access for advocacy, awareness campaigns                        |
+| Government Bodies    | Monitoring support, policy input, public health alignment            |
+
+---
+
+## 9. Technology Stack & Tools
+
+- **Hardware:** ESP32, MQ135, DHT22, TDS & pH Sensors
+- **Backend:** Node.js, Firebase Realtime Database
+- **Frontend:** React.js with Chart.js, Leaflet.js for maps
+- **Cloud:** Firebase Hosting, AWS IoT Core
+- **Notification Services:** Twilio (SMS), SendGrid (Email)
+- **Project Management:** GitHub Projects, Trello
+- **Testing:** Postman (API), Jest (unit tests), Manual QA
+
+---
+
+## 10. Conclusion & Future Scope
+
+- The proposed system fills a critical visibility gap in environmental monitoring.
+- It is affordable, modular, and designed for community-level adoption.
+- Real-time data and alerts improve awareness and response time.
+- Educational and research value can drive long-term impact.
+
+### Future Scope:
+- Expand to mobile application support
+- Add more environmental parameters like sound and light pollution
+- Predictive analytics using historical data + AI
+
