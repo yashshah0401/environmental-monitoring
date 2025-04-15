@@ -156,6 +156,11 @@ This document outlines the final stage of project preparation, breaking down sys
 | Sprint 3     | Apr 15 – Apr 21  | Frontend development, dashboard UI                        |
 | Sprint 4     | Apr 22 – Apr 28  | Integration testing, deployment, documentation            |
 
+
+> **📝 Note:**  
+> The sprint dates, milestones, and data points illustrated in the timeline and accompanying tables are **hypothetical** and intended for planning and demonstration purposes only.  
+> Final implementation dates may vary depending on team availability, stakeholder input, hardware procurement, and external dependencies.
+
 ---
 
 ## 8. Stakeholder Expectations
